@@ -13,12 +13,12 @@ Infine scrivi sulla pagina **nomecognomecolorepreferito21**.
 ## Svolgimento
 1. Raccolta dati:
   - [x] Chiedere nome
-  - [ ] Chiedere cognome
-  - [ ] Chiedere colore preferito
-  - [ ] Creare la variabile per il numero e salvarne 21
-  - [ ] **Bonus**: invece del 21 generare un numero casuale
+  - [x] Chiedere cognome
+  - [x] Chiedere colore preferito
+  - [x] Creare la variabile per il numero e salvarne 21
+  - [x] **Bonus**: invece del 21 generare un numero casuale
 2. Esecuzione logica:
-  - [ ] Creazione della password concatenando i valori di nome, cognome, colore preferito
+  - [x] Creazione della password concatenando i valori di nome, cognome, colore preferito
 3. Output 
   - [ ] Stampa della password in pagina 
 
